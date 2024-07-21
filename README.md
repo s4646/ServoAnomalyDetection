@@ -92,8 +92,9 @@ run the  files:
 ```bash
 data_preprocessing.py
 ``` 
-We used an iphone to record the servo, so we converted the audio type from .m4a to .wav
+We used an iPhone to record the servo, so we converted the audio type from .m4a to .wav
 ```bash
 train.ipynb
-
 ```
+Note:
+- Inside the documents folder there is a detailed presentation showing the entire project process with pictures
