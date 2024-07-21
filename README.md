@@ -98,3 +98,4 @@ train.ipynb
 ```
 Note:
 - Inside the documents folder there is a detailed presentation showing the entire project process with pictures
+- you can also visit the project on google colab: https://drive.google.com/drive/folders/1Ojn4adXTY_1Srn8bhShLV_5QAplAe0hp?usp=sharing
